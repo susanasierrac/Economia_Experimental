@@ -1,9 +1,15 @@
+# Junk created by LaTeX
+*.synctex.gz
+*.out
+*.log
+# Junk created by R
+.RData
+# Junk created by Python
+*.pyc
+
 # History files
 .Rhistory
 .Rapp.history
-
-# Session Data files
-.RData
 
 # User-specific files
 .Ruserdata
